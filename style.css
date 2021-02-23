@@ -1,0 +1,74 @@
+
+body{
+background-image: url('background.jpg');
+background-position: center;
+background-size: cover;
+
+
+}
+
+
+.container{
+  width: 300px;
+  margin: auto;
+
+}
+
+.logo{
+  width: 500PX;
+
+}
+
+.sottologo{
+  text-align:center;
+  font-size:30px;
+  color: lightGreen;
+  display: flex;
+
+}
+
+.bottone{
+  text-align: center;
+  background-color: lightGreen;
+
+}
+
+.subject{
+  color: White;
+  font-size: 30px;
+}
+
+#freccia1{
+  color: white;
+  font-size: 18px;
+}
+
+.carica1{
+  color: White;
+  font-size: 19px;
+
+}
+
+.arancione{
+  width: 300px;
+  height: 40px;
+  background-color: orange;
+}
+.verde{
+  width: 600px;
+  height: 40px;
+  background-color: green;
+
+}
+
+.rosso{
+  width: 300px;
+  height: 40px;
+  background-color: red;
+}
+
+.principale{
+  width: 1000px;
+  height:1000px;
+  margin:auto;
+  
